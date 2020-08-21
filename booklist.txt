@@ -1,3 +1,4 @@
+** -> means got it
 Memory as a Programming Concept in C and C++ -- Frantisek Franek
 Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition
 Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace -- Gordon MacKenzie
@@ -49,7 +50,8 @@ Programming Pearls (2nd Edition) -- Jon Bentley
 Refactoring: Improving the Design of Existing Code -- Martin Fowler
 The Art of Computer Programming -- Donald Knuth.
 Compilers: Principles, Techniques, and Tools
-Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman 
+** Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman
+C Programming Language --  Brian W. Kernighan and Dennis M. Ritchie
 
 Para Mariana
 ------------------------------
