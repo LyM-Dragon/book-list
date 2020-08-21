@@ -2,15 +2,12 @@ Memory as a Programming Concept in C and C++ -- Frantisek Franek
 Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition
 Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace -- Gordon MacKenzie
 Concrete Mathematics: A Foundation for Computer Science (2nd Edition) -- Donald E. Knuth
-The Art of Computer Programming -- Donald Knuth.
 How to Solve It by Computer --  R. G. Dromey 
 Expert C Programming -- Peter van der Linden
 Etudes for Programmers -- Charles Wetherell
 Rapid Development: Taming Wild Software Schedules -- Steve McConnell --> un poco "out of date" pero valioso de leer aun
 Object-Oriented Design Heuristics -- Arthur J. Rie
 Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design
-Patterns of Enterprise Application Architecture -- Martin Fowler
-Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions -- Gregor Hohpe
 Code Craft: The Practice of Writing Excellent Code -- Pete Goodliffe
 Test Driven Development: By Example -- Kent Beck
 Object-Oriented Analysis and Design with Applications -- Grady Booch
@@ -27,6 +24,11 @@ Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Desig
 UML Distilled: A Brief Guide to the Standard Object Modeling Language --Martin Fowler
 What Every Programmer Should Know About Memory -- Ulrich Drepper -->  pdf relativamente corto
 In the Beginning...was the Command Line -- Neal Stephenson  --> gratis en internet y relativamente corto
+Don't Make Me Think : A Common Sense Approach to Web Usability -- Steve Krug
+Head First Design Patterns
+Linux Kernel Development
+Modern Compiler Implement in ML 
+compiler construction - Niklaus Wirth
 
 IMPORTANTES
 ---------------
@@ -36,11 +38,17 @@ The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference -- C
 The Mythical Man-Month -- Fred Brooks
 Code Complete: A Practical Handbook of Software Construction, Second Edition -- Steve McConnell
 Clean Code: A Handbook of Agile Software Craftsmanship --  Robert C. Martin (uncle bob)
-Head First Design Patterns
 Design Patterns: Elements of Reusable Object-Oriented Software - GOF
+Pattern Hatching: Design Patterns Applied -- John M. Vlissides
+Analysis Patterns: Reusable Object Models -- Martin Fowler
+Pattern-Oriented Software Architecture Volume 1: A System of Patterns
+Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects
+Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions -- Gregor Hohpe
+Patterns of Enterprise Application Architecture -- Martin Fowler
 Programming Pearls (2nd Edition) -- Jon Bentley
 Refactoring: Improving the Design of Existing Code -- Martin Fowler
-
+The Art of Computer Programming -- Donald Knuth.
+Compilers: Principles, Techniques, and Tools 
 
 Para Mariana
 ------------------------------
@@ -49,8 +57,6 @@ ULTIMA VERSIÓN SE LLAMA "Think Python (2da edicion)"
 The Self-Taught Programmer: The Definitive Guide to Programming Professionally -- Cory Althoff --> Para Mariana
 SOFTWARE DESIGN PRINCIPLES -- Ludwin Barbin --> Para Mariana
 Mastery: The Keys to Success and Long-Term Fulfillment -- George Leonard --> para mariana??
-
-
 
 Interesantes pero no de informática en particular
 ----------------------------------------------------
@@ -104,4 +110,3 @@ JavaScript - The Good Parts
 Thinking in Java -- Bruce Eckel
 Thinking in C++ -- Bruce Eckel
 The Art of Game Design: A Book of Lenses -- Jesse Schell
-Don't Make Me Think : A Common Sense Approach to Web Usability -- Steve Krug
