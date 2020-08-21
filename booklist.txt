@@ -1,0 +1,107 @@
+Memory as a Programming Concept in C and C++ -- Frantisek Franek
+Managing Gigabytes: Compressing and Indexing Documents and Images, Second Edition
+Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace -- Gordon MacKenzie
+Concrete Mathematics: A Foundation for Computer Science (2nd Edition) -- Donald E. Knuth
+The Art of Computer Programming -- Donald Knuth.
+How to Solve It by Computer --  R. G. Dromey 
+Expert C Programming -- Peter van der Linden
+Etudes for Programmers -- Charles Wetherell
+Rapid Development: Taming Wild Software Schedules -- Steve McConnell --> un poco "out of date" pero valioso de leer aun
+Object-Oriented Design Heuristics -- Arthur J. Rie
+Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design
+Patterns of Enterprise Application Architecture -- Martin Fowler
+Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions -- Gregor Hohpe
+Code Craft: The Practice of Writing Excellent Code -- Pete Goodliffe
+Test Driven Development: By Example -- Kent Beck
+Object-Oriented Analysis and Design with Applications -- Grady Booch
+Literate Programming --  Donald E. Knuth 
+The Productive Programmer -- Neal Ford
+Introduction to Algorithms: A Creative Approach -- Udi Manber
+Introduction to Algorithms -- CLRS
+The Algorithm Design Manual -- 	Steven S Skiena
+Working Effectively with Legacy Code -- Michael Feathers
+The Elements of Programming Style -- Brian W. Kernighan, P. J. Plauger (ejemplos estan en FORTRAN)
+Design Concepts in Programming Languages -- Franklyn Turbak
+The Practice of Programming -- Brian W. , Rob Pike
+Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development -- Craig Larman
+UML Distilled: A Brief Guide to the Standard Object Modeling Language --Martin Fowler
+What Every Programmer Should Know About Memory -- Ulrich Drepper -->  pdf relativamente corto
+In the Beginning...was the Command Line -- Neal Stephenson  --> gratis en internet y relativamente corto
+
+IMPORTANTES
+---------------
+Code: The Hidden Language of Computer Hardware and Software -- Charles Petzold
+The Pragmatic Programmer: From Journeyman to Master
+The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference -- Charles M. Kozierok
+The Mythical Man-Month -- Fred Brooks
+Code Complete: A Practical Handbook of Software Construction, Second Edition -- Steve McConnell
+Clean Code: A Handbook of Agile Software Craftsmanship --  Robert C. Martin (uncle bob)
+Head First Design Patterns
+Design Patterns: Elements of Reusable Object-Oriented Software - GOF
+Programming Pearls (2nd Edition) -- Jon Bentley
+Refactoring: Improving the Design of Existing Code -- Martin Fowler
+
+
+Para Mariana
+------------------------------
+How to Think Like a Computer Scientist: Learning with Python -- Allen B. Downey --> Tal vez para mariana?? al parecer esta gratis la versión on line
+ULTIMA VERSIÓN SE LLAMA "Think Python (2da edicion)"
+The Self-Taught Programmer: The Definitive Guide to Programming Professionally -- Cory Althoff --> Para Mariana
+SOFTWARE DESIGN PRINCIPLES -- Ludwin Barbin --> Para Mariana
+Mastery: The Keys to Success and Long-Term Fulfillment -- George Leonard --> para mariana??
+
+
+
+Interesantes pero no de informática en particular
+----------------------------------------------------
+Coders at Work: Reflections on the Craft of Programming -- Peter Seibel
+Wabi-Sabi: for Artists, Designers, Poets & Philosophers -- Leonard Koren
+The Tao of Pooh -- Benjamin Hoff
+The Te of Piglet -- Benjamin Hoff
+Being Peace -- Thich Nhat Hanh
+Are Your Lights On?: How to Figure Out What the Problem Really Is
+Beyond Code: Learn to distinguish yourself in 9 simple steps! -- Rajesh Setty
+The Design of Everyday Things -- Don Norman
+The inmates are running the asylum -- Alan Cooper
+Soft Skills: The software developer's life manual -- John Sonmez
+Computer Algebra and Symbolic Computation: Elementary Algorithms -- Joel S. Cohen
+Computer Algebra and Symbolic Computation: Mathematical Methods -- Joel S. Cohen
+The Back of the Napkin (Expanded Edition): Solving Problems and Selling Ideas with Pictures -- Dan Roam
+The Timeless Way of Building -- Christopher Alexander
+The Lean Mindset: Ask the Right Questions -- Mary Poppendieck 
+How to Solve It: A New Aspect of Mathematical Method --  G. Polya
+Foundations of Game Engine Development, Volume 1: Mathematics -- Eric Lengyel
+Discrete Mathematics for Computer Scientists -- John Truss
+
+No tan interesantes (aún)
+---------------------------
+Types and Programming Languages -- Benjamin C. Pierce
+Agile Software Development: The Cooperative Game -- Alistair Cockburn
+Facts and Fallacies of Software Engineering -- Robert L. Glass
+Software Tools -- Brian W. Kernighan , P. J. Plauger 
+Mr. Bunny's Big Cup o' Java 
+Mr. Bunny's Guide to ActiveX
+Zero Bugs and Program Faster -- Kate Thompson
+Smalltalk Best Practice Patterns -- Kent Beck
+Agile Software Development, Principles, Patterns, and Practices -- Robert C. Martin 
+Advanced Programming in the UNIX Environment -- W. Richard Stevens 
+Programming Windows -- Charles Petzold 
+Just for Fun: The Story of an Accidental Revolutionary -- Linus Torvalds
+Zen of Assembly Language -- Michael Abrash
+Zen of Code Optimization -- Michael Abrash
+Computer Networks -- Andrew S. Tanenbaum
+Cracking the Coding Interview  6th Edition -- Gayle Laakmann McDowell 
+Maverick!: The Success Story Behind the World's Most Unusual Workplace -- Ricardo Semler
+The Unix Programming Environment -- Kernighan and Pike
+Domain-Driven Design: Tackling Complexity in the Heart of Software -- Eric Evans  
+Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture -- David Kushner
+Prepare to Meet Thy Doom: And More True Gaming Stories -- David Kushner
+Hacker's Delight -- Henry S. Warren Jr.
+Effective Java
+Effective C++
+More Effective C++
+JavaScript - The Good Parts
+Thinking in Java -- Bruce Eckel
+Thinking in C++ -- Bruce Eckel
+The Art of Game Design: A Book of Lenses -- Jesse Schell
+Don't Make Me Think : A Common Sense Approach to Web Usability -- Steve Krug
