@@ -48,7 +48,8 @@ Patterns of Enterprise Application Architecture -- Martin Fowler
 Programming Pearls (2nd Edition) -- Jon Bentley
 Refactoring: Improving the Design of Existing Code -- Martin Fowler
 The Art of Computer Programming -- Donald Knuth.
-Compilers: Principles, Techniques, and Tools 
+Compilers: Principles, Techniques, and Tools
+Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman 
 
 Para Mariana
 ------------------------------
