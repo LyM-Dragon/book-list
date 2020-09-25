@@ -84,6 +84,7 @@ Discrete Mathematics for Computer Scientists -- John Truss
 
 No tan interesantes (aún)
 ---------------------------
+Hacker & Painters
 Types and Programming Languages -- Benjamin C. Pierce
 Agile Software Development: The Cooperative Game -- Alistair Cockburn
 Facts and Fallacies of Software Engineering -- Robert L. Glass
